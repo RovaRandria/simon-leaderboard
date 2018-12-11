@@ -1,9 +1,10 @@
 {
   "name": "lab7",
   "version": "1.0.0",
-  "description": "Lab 7 server for GLO-3102.",
+  "description": "Simon leaderboard server",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
